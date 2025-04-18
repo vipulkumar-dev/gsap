@@ -3,7 +3,9 @@
 ### ScrollSmoother
 
 - **CDN Link**:  
-  `https://cdn.jsdelivr.net/gh/vipulkumar-dev/gsap/ScrollSmoother.min.js`  
+  ```html
+  https://cdn.jsdelivr.net/gh/vipulkumar-dev/gsap/ScrollSmoother.min.js
+  ```
    
 
 ### DrawSVGPlugin
